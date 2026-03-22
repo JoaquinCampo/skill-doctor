@@ -1,0 +1,11 @@
+{
+  "name": "skill-doctor",
+  "version": "1.0.0",
+  "description": "Evaluate Claude Code skills against best practices from Anthropic's article. Tracks skill usage globally via hooks.",
+  "author": {
+    "name": "Joaquin Camponario"
+  },
+  "license": "MIT",
+  "keywords": ["skills", "audit", "evaluation", "best-practices", "quality"],
+  "skills": "./skills/"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "skill-doctor-marketplace",
+  "owner": {
+    "name": "Joaquin Campo"
+  },
+  "metadata": {
+    "description": "Skill auditing and usage tracking plugin for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "skill-doctor",
+      "source": "./",
+      "description": "Evaluate Claude Code skills against best practices. Tracks skill usage globally.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Joaquin Campo"
+      },
+      "category": "development",
+      "keywords": ["skills", "audit", "evaluation", "quality"]
+    }
+  ]
+}
